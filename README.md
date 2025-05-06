@@ -8,7 +8,12 @@ O circuito será feito a partir de uma corrente alternada de 127V (pico de 180V)
 ## Alunos
 
 José Fausto Vital Barbosa
-Pedro Paulo Coutinho
+
+Pablo Henrique Almeida Vieira
+
+Pedro Paulo Carvalho Coutinho
+
+Roberto Brostel Barroso
 
 ## Componentes Utilizados
 
