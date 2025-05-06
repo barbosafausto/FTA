@@ -1,2 +1,1 @@
-# FTA
-Fonte de Tensão Ajustável
+# Fonte de Tensão Ajustável
