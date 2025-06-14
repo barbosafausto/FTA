@@ -38,6 +38,38 @@ Valor Total: R$ xx,xx
 
 ## Componentes Utilizados
 
+### 🔌 Transformador 
+
+abldaçhsfkjsf
+
+
+### 🔲 Protoboard
+
+
+### 🧵 Kit Jumper  
+
+
+### ⚡ Capacitor     
+
+ 
+### 🎚️ Potenciômetro    
+
+
+### 🟫 Resistores
+
+
+### 🔁 Diodos
+
+
+### 🚫 Diodo Zener    
+
+
+### 🔴 LED         
+
+
+### ⚙️ Transistor       
+
+
 ## Circuito Físico
 
 ## Vídeo Explicando o Circuito 
