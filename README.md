@@ -71,6 +71,7 @@ abldaçhsfkjsf
 
 
 ## Circuito no Tinkercad
+![](Imagens/Tinkerkad.png)
 
 ## Circuito Físico
 
