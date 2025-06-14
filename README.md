@@ -15,9 +15,28 @@ O circuito será feito a partir de uma corrente alternada de 127V (pico de 180V)
 
 * Roberto Brostel Barroso - 16899695
 
-## Componentes Utilizados
-
 ## Tabelas de Gastos
+
+| Quantidade | Componente | Descrição | Valor |
+|----------|----------|----------|----------|
+| 1 | Transformador | 18 V | R$ 0,00 |
+| 1 | Protoboard | <> | <> |
+| 1 | Kit Jumper | <> | <> |
+| 1 | Capacitor | <> | <> |
+| 1 | Potenciômetro | 10 kΩ | <> |
+| 1 | Resistor | <> | <> |
+| 1 | Resistor | <> | <> |
+| 1 | Resistor | <> | <> |
+| 1 | Resistor | <> | <> |
+| 1 | Resistor | <> | <> |
+| 4 | Diodo | <> | <> |
+| 1 | Diodo Zener | <> | <> |
+| 1 | LED | <> | <> |
+| 1 | Transistor | <> | <> |
+
+Valor Total: R$ xx,xx
+
+## Componentes Utilizados
 
 ## Circuito Físico
 
