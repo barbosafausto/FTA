@@ -70,6 +70,8 @@ abldaçhsfkjsf
 ### ⚙️ Transistor       
 
 
+## Circuito no Tinkercad
+
 ## Circuito Físico
 
 ## Vídeo Explicando o Circuito 
@@ -79,5 +81,3 @@ abldaçhsfkjsf
 ## Circuito no Eagle
 
 ## Circuito PCB
-
-## Circuito no Tinkercad
