@@ -95,8 +95,22 @@ Razão testada do transformador: $6,76$
 
 Pico de Tensão A/C: $180$ V
 
-### Voltagem do Transformador ($V_t$)
+### Voltagem no Capacitor ($V_c$)
 
-$R = \frac{V_{A/C}}{V_t}$ $\Rightarrow$ $V_t = \frac{180}{6,76}$ $\therefore$ $V_t = 26,63$
+Com base na razão ($R$) do transformador e na voltagem da rede ($V_{A/C}$), podemos calcular a tensão de saída do transformador ($V_t$):
+
+$R = \frac{V_{A/C}}{V_t}$ $\Rightarrow$ $V_t = \frac{180}{6,76}$  $\therefore$  $V_t = 26,63$
+
+Como cada diodo gasta ~0,7V e a corrente passa por 2 diodos em um mesmo sentido, faremos:
+
+$V_c = V_t - 2\cdot0,7$ 
+
+Então temos a voltagem no capacitor:
+
+$\boxed{V_c = 25,23}$ V
+ 
+
+
+
 
 
