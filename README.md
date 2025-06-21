@@ -107,7 +107,28 @@ $V_c = V_t - 2\cdot0,7$
 
 Então temos a voltagem no capacitor:
 
-$\boxed{V_c = 25,23}$ V
+$V_c = 25,23$ V
+
+### Cálculo do Ripple
+
+Vamos usar a fórmula simples do Ripple do circuito para calcular qual deve ser a capacitância do capacitor. Para isso, vamos buscar um ripple de 10%.
+
+Temos a fórmula:
+
+#R_p = \frac{i}{f\cdot C}$  
+
+Com base no simulador, temos uma corrente $i = 0,12 A$ passando pelo capacitor. Além disso, a frequência da rede é $f = 2*60 = 120$ Hz. Logo:
+
+$\Rightarrow$  $0,1\cdot 25,23= \frac{0,12}{120\cdot C}
+
+Portanto, conseguimos a capacitância que precisamos:
+
+C = 396 $\mu$F $\approx 400 \mu F$
+
+A capacitância mais próxima e maior que C que achamos foi de 570 $mu$F, então usamos ela.
+
+
+
  
 
 
