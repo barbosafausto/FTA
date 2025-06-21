@@ -119,13 +119,13 @@ $R_p = \frac{i}{f\cdot C}$
 
 Com base no simulador, temos uma corrente $i = 0,12 A$ passando pelo capacitor. Além disso, a frequência da rede é $f = 2*60 = 120$ Hz. Logo:
 
-$\Rightarrow$  $0,1\cdot 25,23= \frac{0,12}{120\cdot C}
+$\Rightarrow$  $0,1\cdot 25,23 = \frac{0,12}{120\cdot C}
 
 Portanto, conseguimos a capacitância que precisamos:
 
-C = 396 $\mu$F $\approx 400 \mu F$
+C = 396 $\mu $F $\approx 400 \mu $F
 
-A capacitância mais próxima e maior que C que achamos foi de 570 $mu$F, então usamos ela.
+A capacitância mais próxima e maior que C que achamos foi de 570 $\mu$F, então usamos ela.
 
 
 
