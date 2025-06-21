@@ -123,9 +123,9 @@ $\Rightarrow$  $0,1\cdot 25,23 = \frac{0,12}{120\cdot C}$
 
 Portanto, conseguimos a capacitância que precisamos:
 
-$C = 396,36 \mu$F $\approx 400 \mu$F
+$C = 396,36 \mu F$ $\approx 400 \mu F$
 
-A capacitância mais próxima e maior que C que achamos foi de $570 \mu$F, então usamos ela.
+A capacitância mais próxima e maior que C que achamos foi de $570$ $\mu F$, então usamos ela.
 
 
 
