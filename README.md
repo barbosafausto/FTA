@@ -95,8 +95,8 @@ Razão testada do transformador: $6,76$
 
 Pico de Tensão A/C: $180$ V
 
-### Voltagem do Transformador ($V_t$}
+### Voltagem do Transformador ($V_t$)
 
-\frac{R}{V_{A/C}}{V_t} \Rightarrow
+$R = \frac{V_{A/C}}{V_t} \Rightarrow V_t = \frac{180}{6,76} \therefore V_t = 26,63$
 
 
