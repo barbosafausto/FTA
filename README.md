@@ -109,7 +109,14 @@ Então temos a voltagem no capacitor:
 
 $V_c = 25,23$ V
 
-### Cálculo do Ripple
+### Cálculo das Correntes
+
+Vamos calcular as correntes a seguir com base na Primeira Lei de Ohm: $U = Ri$.
+
+<carga, led, zener e potenciometro>
+
+
+### Cálculo do Capacitância
 
 Vamos usar a fórmula simples do Ripple do circuito para calcular qual deve ser a capacitância do capacitor. Para isso, vamos buscar um ripple de 10%.
 
