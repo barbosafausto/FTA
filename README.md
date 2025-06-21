@@ -74,7 +74,7 @@ abldaçhsfkjsf
 ![](Imagens/Tinkerkad.png)
 
 ## Circuito Físico
-![](Imagens/Falstad.png)
+![](Imagens/Falstad.svg)
 Simulação do Circuito: https://tinyurl.com/2bozako4
 
 ## Vídeo Explicando o Circuito 
