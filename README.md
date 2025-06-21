@@ -115,7 +115,7 @@ Vamos usar a fórmula simples do Ripple do circuito para calcular qual deve ser 
 
 Temos a fórmula:
 
-#R_p = \frac{i}{f\cdot C}$  
+$R_p = \frac{i}{f\cdot C}$  
 
 Com base no simulador, temos uma corrente $i = 0,12 A$ passando pelo capacitor. Além disso, a frequência da rede é $f = 2*60 = 120$ Hz. Logo:
 
