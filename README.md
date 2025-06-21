@@ -79,7 +79,7 @@ Simulação do Circuito: https://tinyurl.com/2bozako4
 
 ## Vídeo Explicando o Circuito 
 
-## Circuito no Fasltad
+## Circuito no Falstad
 
 ## Circuito no Eagle
 
