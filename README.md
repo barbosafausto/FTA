@@ -87,4 +87,16 @@ Simulação do Circuito: https://tinyurl.com/2bozako4
 
 ## Cálculo dos Componentes
 
-Saída de tensão para o capacitor: $25,3 V$
+### Cálculos Preliminares
+
+Saída de tensão para o capacitor: $25,3$ V
+
+Razão testada do transformador: $6,76$
+
+Pico de Tensão A/C: $180$ V
+
+### Voltagem do Transformador ($V_t$}
+
+\frac{R}{V_{A/C}}{V_t} \Rightarrow
+
+
