@@ -84,3 +84,7 @@ Simulação do Circuito: https://tinyurl.com/2bozako4
 ## Circuito no Eagle
 
 ## Circuito PCB
+
+## Cálculo dos Componentes
+
+Saída de tensão para o capacitor: $25,3 V$
