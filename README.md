@@ -97,7 +97,7 @@ Pico de Tensão A/C: $180$ V
 
 ### Voltagem no Capacitor ($V_c$)
 
-Com base na razão ($R$) do transformador e na voltagem da rede ($V_{A/C}$), podemos calcular a tensão de saída do transformador ($V_t$):
+Com base na razão ($ R $) do transformador e na voltagem da rede ($V_{A/C}$), podemos calcular a tensão de saída do transformador ($V_t$):
 
 $R = \frac{V_{A/C}}{V_t}$ $\Rightarrow$ $V_t = \frac{180}{6,76}$  $\therefore$  $V_t = 26,63$
 
@@ -123,9 +123,9 @@ $\Rightarrow$  $0,1\cdot 25,23 = \frac{0,12}{120\cdot C}$
 
 Portanto, conseguimos a capacitância que precisamos:
 
-$C = 396,36 \mu $F $\approx 400 \mu $F
+$C = 396,36 \mu $ F $\approx 400 \mu $ F
 
-A capacitância mais próxima e maior que C que achamos foi de 570 $\mu$F, então usamos ela.
+A capacitância mais próxima e maior que C que achamos foi de 570 $\mu$ F, então usamos ela.
 
 
 
