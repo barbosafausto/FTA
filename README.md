@@ -97,6 +97,6 @@ Pico de Tensão A/C: $180$ V
 
 ### Voltagem do Transformador ($V_t$)
 
-$R = \frac{V_{A/C}}{V_t} \Rightarrow V_t = \frac{180}{6,76} \therefore V_t = 26,63$
+$R = \frac{V_{A/C}}{V_t}$ $\Rightarrow$ $V_t = \frac{180}{6,76}$ $\therefore$ $V_t = 26,63$
 
 
