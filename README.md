@@ -17,19 +17,19 @@ O circuito será feito a partir de uma corrente alternada de 127V (pico de 180V)
 
 ## Tabelas de Gastos
 
-| Quantidade | Componente | Descrição | Valor |
+| Quantidade | Componente | Descrição | Valor Unitário |
 |----------|----------|----------|----------|
 | 1 | Transformador | 18 V | R$ 0,00 |
-| 1 | Protoboard | <> | <> |
+| 1 | Protoboard | 840 pontos de conexão | R$ 39,10 |
 | 1 | Kit Jumper | <> | <> |
 | 1 | Capacitor | <> | <> |
 | 1 | Potenciômetro | 10 kΩ | <> |
+| 1 | Resistor | 2,7 k$\Omega$, 1W | R$ 0,40 |
 | 1 | Resistor | <> | <> |
 | 1 | Resistor | <> | <> |
 | 1 | Resistor | <> | <> |
 | 1 | Resistor | <> | <> |
-| 1 | Resistor | <> | <> |
-| 4 | Diodo | <> | <> |
+| 4 | Diodo Retificador | 1N4007 | R$ 0,20 |
 | 1 | Diodo Zener | <> | <> |
 | 1 | LED | <> | <> |
 | 1 | Transistor | <> | <> |
