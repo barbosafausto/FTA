@@ -88,8 +88,11 @@ $V_c = 25,23$ V
 Vamos calcular as correntes a seguir com base na Primeira Lei de Ohm: $U = Ri$.
 
 $i_{celular} = \frac{12,22}{120}$
+
 $i_{LED} = \frac{25,44}{5600} \approx 9,4 mA$
+
 $i_{zener} = \frac{25,44 - 13}{1200} \approx 10,3 mA$
+
 $i_{potenciômetro} = \frac{25,44}{10,000 \cdot 3,300 \cdot 1,200} \approx 1,8 mA$
 
 <carga, led, zener e potenciometro>
