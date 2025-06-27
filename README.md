@@ -22,7 +22,7 @@ O circuito será feito a partir de uma corrente alternada de 127V (pico de 180V)
 | 1 | Transformador | 18 V | R$ 0,00 |
 | 1 | Protoboard | 840 pontos de conexão | R$ 39,10 |
 | 1 | Kit Jumper | <> | <> |
-| 1 | Capacitor | <> | <> |
+| 1 | Capacitor |  | <> |
 | 1 | Potenciômetro | 10 kΩ, 1W | R$ 7,00 |
 | 1 | Resistor | 2,7 kΩ, 1W | R$ 0,40 |
 | 1 | Resistor | 3,3 kΩ | <> |
@@ -36,54 +36,28 @@ O circuito será feito a partir de uma corrente alternada de 127V (pico de 180V)
 
 Valor Total: R$ xx,xx
 
-## Componentes Utilizados
-
-### 🔌 Transformador 
-
-abldaçhsfkjsf
-
-
-### 🔲 Protoboard
-
-
-### 🧵 Kit Jumper  
-
-
-### ⚡ Capacitor     
-
- 
-### 🎚️ Potenciômetro    
-
-
-### 🟫 Resistores
-
-
-### 🔁 Diodos
-
-
-### 🚫 Diodo Zener    
-
-
-### 🔴 LED         
-
-
-### ⚙️ Transistor       
-
-
 ## Circuito no Tinkercad
 ![](Imagens/Tinkerkad.png)
 
+
 ## Circuito Físico
-![](Imagens/Falstad.svg)
-Simulação do Circuito: https://tinyurl.com/2bozako4
+![](Imagens/CircuitoFisico.png)
+
 
 ## Vídeo Explicando o Circuito 
 
 ## Circuito no Falstad
+![](Imagens/Falstad.svg)
+Simulação do Circuito: https://tinyurl.com/2bozako4
+
 
 ## Circuito no Eagle
+![](Imagens/Eagle.png)
+
 
 ## Circuito PCB
+![](Imagens/PCB.png)
+
 
 ## Cálculo dos Componentes
 
@@ -113,6 +87,11 @@ $V_c = 25,23$ V
 
 Vamos calcular as correntes a seguir com base na Primeira Lei de Ohm: $U = Ri$.
 
+$i_{celular} = \frac{12,22}{120}$
+$i_{LED} = \frac{25,44}{5600} \approx 9,4 mA$
+$i_{zener} = \frac{25,44 - 13}{1200} \approx 10,3 mA$
+$i_{potenciômetro} = \frac{25,44}{10,000 \cdot 3,300 \cdot 1,200} \approx 1,8 mA$
+
 <carga, led, zener e potenciometro>
 
 
@@ -134,7 +113,7 @@ $C = 396,36$ $\mu F$
 
 $C \approx 400$ $\mu F$
 
-A capacitância mais próxima e maior que C que achamos foi de $570$ $\mu F$, então usamos ela.
+A capacitância mais próxima e maior que C que achamos foi de $470$ $\mu F$, então usamos ela.
 
 
 
