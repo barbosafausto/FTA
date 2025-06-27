@@ -87,7 +87,7 @@ $V_c = 25,23$ V
 
 Vamos calcular as correntes a seguir com base na Primeira Lei de Ohm: $U = Ri$.
 
-$i_{celular} = \frac{12,22}{120}$
+$i_{celular} = \frac{12,22}{120} \approx 101,8 mA$
 
 $i_{LED} = \frac{25,44}{5600} \approx 9,4 mA$
 
