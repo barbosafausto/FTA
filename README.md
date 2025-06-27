@@ -95,8 +95,6 @@ $i_{zener} = \frac{25,44 - 13}{1200} \approx 10,3 mA$
 
 $i_{potenciômetro} = \frac{25,44}{10,000 + 3,300 + 1,200} \approx 1,8 mA$
 
-<carga, led, zener e potenciometro>
-
 
 ### Cálculo do Capacitância
 
