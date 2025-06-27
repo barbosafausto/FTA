@@ -23,16 +23,16 @@ O circuito será feito a partir de uma corrente alternada de 127V (pico de 180V)
 | 1 | Protoboard | 840 pontos de conexão | R$ 39,10 |
 | 1 | Kit Jumper | <> | <> |
 | 1 | Capacitor | <> | <> |
-| 1 | Potenciômetro | 10 kΩ | <> |
-| 1 | Resistor | 2,7 k$\Omega$, 1W | R$ 0,40 |
+| 1 | Potenciômetro | 10 kΩ, 1W | R$ 7,00 |
+| 1 | Resistor | 2,7 kΩ, 1W | R$ 0,40 |
 | 1 | Resistor | <> | <> |
 | 1 | Resistor | <> | <> |
 | 1 | Resistor | <> | <> |
 | 1 | Resistor | <> | <> |
 | 4 | Diodo Retificador | 1N4007 | R$ 0,20 |
-| 1 | Diodo Zener | <> | <> |
-| 1 | LED | <> | <> |
-| 1 | Transistor | <> | <> |
+| 1 | Diodo Zener | 13V, 1W | R$ 0,50 |
+| 1 | LED | 5MM Difuso 333‑2SDRD/S530‑L | R$ 0,50 |
+| 1 | Transistor | NPN BC338-25 | R$ 0,45 |
 
 Valor Total: R$ xx,xx
 
