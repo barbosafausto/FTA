@@ -22,7 +22,7 @@ O circuito será feito a partir de uma corrente alternada de 127V (pico de 180V)
 | 1 | Transformador | 18 V | R$ 0,00 |
 | 1 | Protoboard | 840 pontos de conexão | R$ 39,10 |
 | 1 | Kit Jumper | <> | <> |
-| 1 | Capacitor |  | <> |
+| 1 | Capacitor | 470 uF | <> |
 | 1 | Potenciômetro | 10 kΩ, 1W | R$ 7,00 |
 | 1 | Resistor | 2,7 kΩ, 1W | R$ 0,40 |
 | 1 | Resistor | 3,3 kΩ | <> |
