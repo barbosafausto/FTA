@@ -21,12 +21,12 @@ O circuito será feito a partir de uma corrente alternada de 127V (pico de 180V)
 |----------|----------|----------|----------|
 | 1 | Transformador | 18 V | R$ 0,00 |
 | 1 | Protoboard | 840 pontos de conexão | R$ 39,10 |
-| 1 | Kit Jumper | <> | <> |
-| 1 | Capacitor | 470 uF | <> |
+| 1 | Kit Jumper | Macho-Macho + Macho-Fêmea | R$ 28,89 |
+| 1 | Capacitor | 470 uF | R$ 0,44 |
 | 1 | Potenciômetro | 10 kΩ, 1W | R$ 7,00 |
 | 1 | Resistor | 2,7 kΩ, 1W | R$ 0,40 |
-| 1 | Resistor | 3,3 kΩ | <> |
-| 1 | Resistor | 1,2 kΩ | <> |
+| 1 | Resistor | 3,3 kΩ | R$ 0,07 |
+| 1 | Resistor | 1,2 kΩ | R$ 0,13 |
 | 1 | Resistor | 100 Ω | R$ 1,20 |
 | 1 | Resistor | 120 Ω | R$ 1,90 |
 | 4 | Diodo Retificador | 1N4007 | R$ 0,20 |
