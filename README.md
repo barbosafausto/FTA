@@ -48,6 +48,8 @@ Valor Total: R$ xx,xx
 
 ## Circuito no Falstad
 ![](Imagens/Falstad.svg)
+
+
 Simulação do Circuito: https://tinyurl.com/2bozako4
 
 
