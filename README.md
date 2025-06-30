@@ -34,7 +34,7 @@ O circuito será feito a partir de uma corrente alternada de 127V (pico de 180V)
 | 1 | LED | 5MM Difuso 333‑2SDRD/S530‑L | R$ 0,50 |
 | 1 | Transistor | NPN BC338-25 | R$ 0,45 |
 
-Valor Total: R$ xx,xx
+Valor Total: R$ 80,78
 
 ## Circuito no Tinkercad
 ![](Imagens/Tinkercad.png)
