@@ -19,7 +19,6 @@ O circuito será feito a partir de uma corrente alternada de 127V (pico de 180V)
 
 | Quantidade | Componente | Descrição | Valor Unitário |
 |----------|----------|----------|----------|
-| 1 | Transformador | 18 V | R$ 0,00 |
 | 1 | Protoboard | 840 pontos de conexão | R$ 39,10 |
 | 1 | Kit Jumper | Macho-Macho + Macho-Fêmea | R$ 28,89 |
 | 1 | Capacitor | 470 uF | R$ 0,44 |
