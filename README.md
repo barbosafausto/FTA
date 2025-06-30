@@ -91,7 +91,7 @@ Vamos calcular as correntes a seguir com base na Primeira Lei de Ohm: $U = Ri$.
 
 $i_{celular} = \frac{12,22}{120} \approx 101,8 mA$
 
-$i_{LED} = \frac{25,44}{5600} \approx 9,4 mA$
+$i_{LED} = \frac{25,44}{2700} \approx 9,4 mA$
 
 $i_{zener} = \frac{25,44 - 13}{1200} \approx 10,3 mA$
 
