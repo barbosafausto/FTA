@@ -41,8 +41,8 @@ Valor Total: R$ xx,xx
 
 
 ## Circuito Físico
-![](Imagens/Fisico1.png)
-![](Imagens/Fisico2.png)
+![](Imagens/Fisico1.jpg)
+![](Imagens/Fisico2.jpg)
 
 
 ## Vídeo Explicando o Circuito 
