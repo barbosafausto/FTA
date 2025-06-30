@@ -50,7 +50,7 @@ Valor Total: R$ xx,xx
 ![](Imagens/Falstad.svg)
 
 
-Simulação do Circuito: https://tinyurl.com/2bozako4
+Simulação do Circuito: https://tinyurl.com/2dg3ryvk
 
 
 ## Circuito no Eagle
