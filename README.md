@@ -53,12 +53,11 @@ Valor Total: R$ 80,78
 Simulação do Circuito: [https://tinyurl.com/2dg3ryvk](https://tinyurl.com/23kvpb9c)
 
 
-## Circuito no Eagle
-![](Imagens/Eagle.png)
+## Circuito PCB no Eagle
+![](Imagens/Esquematico.png)
 
 
-## Circuito PCB
-![](Imagens/PCB.png)
+![](Imagens/Board.png)
 
 
 ## Cálculo dos Componentes
