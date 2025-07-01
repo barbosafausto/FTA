@@ -45,6 +45,8 @@ Valor Total: R$ 80,78
 
 
 ## Vídeo Explicando o Circuito 
+https://youtu.be/3E-sQuPggsA
+
 
 ## Circuito no Falstad
 ![](Imagens/Falstad.svg)
