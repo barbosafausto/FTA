@@ -56,9 +56,11 @@ Simulação do Circuito: [https://tinyurl.com/2dg3ryvk](https://tinyurl.com/23kv
 
 
 ## Circuito PCB no Eagle
+### Esquemático
 ![](Imagens/Esquematico.png)
 
 
+### Board
 ![](Imagens/Board.png)
 
 
