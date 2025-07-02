@@ -50,7 +50,7 @@ https://youtu.be/_wUiElhzMUA
 ## Circuito no Falstad
 ![](Imagens/Falstad.svg)
 
-Simulação do Circuito: https://tinyurl.com/2xu9qe8o
+Simulação do Circuito: https://tinyurl.com/2bc8shob
 
 
 ## Circuito PCB no Eagle
@@ -96,7 +96,7 @@ $i_{LED} = \frac{25,44}{2700} \approx 9,4 mA$
 
 $i_{zener} = \frac{25,44 - 13}{1200} \approx 10,3 mA$
 
-$i_{potenciômetro} = \frac{25,44}{10,000 + 3,600 + 1,200} \approx 1,7 mA$
+$i_{potenciômetro} = \frac{25,44}{10,000 + 3,700 + 1,200} \approx 1,7 mA$
 
 
 ### Cálculo do Capacitância
