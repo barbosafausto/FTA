@@ -25,7 +25,7 @@ O circuito será feito a partir de uma corrente alternada de 127V (pico de 180V)
 | 1 | Potenciômetro | 10 kΩ, 1W | R$ 7,00 |
 | 1 | Resistor | 2,7 kΩ, 1W | R$ 0,40 |
 | 1 | Resistor | 3,3 kΩ | R$ 0,07 |
-| 1 | Resistor | 1,2 kΩ | R$ 0,13 |
+| 4 | Resistor | 1,2 kΩ | R$ 0,13 |
 | 1 | Resistor | 100 Ω | R$ 1,20 |
 | 1 | Resistor | 120 Ω | R$ 1,90 |
 | 4 | Diodo Retificador | 1N4007 | R$ 0,20 |
@@ -33,7 +33,7 @@ O circuito será feito a partir de uma corrente alternada de 127V (pico de 180V)
 | 1 | LED | 5MM Difuso 333‑2SDRD/S530‑L | R$ 0,50 |
 | 1 | Transistor | NPN BC338-25 | R$ 0,45 |
 
-Valor Total: R$ 80,78
+Valor Total: R$ 81,77
 
 
 ## Funcionamento do Circuito Físico
@@ -45,6 +45,8 @@ https://youtube.com/shorts/FkHjcjOaQXg?feature=share
 
 ## Vídeo Explicando o Circuito 
 https://youtu.be/_wUiElhzMUA
+
+Obs.: quando a explicação foi gravada, havia um resistor de 3.6k próximo ao potenciômetro, mas isso foi alterado para 3.7k na versão final do projeto.
 
 
 ## Circuito no Falstad
