@@ -55,14 +55,16 @@ Obs.: quando a explicação foi gravada, havia um resistor de 3.6k próximo ao p
 
 Simulação do Circuito: https://tinyurl.com/2bc8shob
 
+Obs.: não conseguimos um resistor 3.7k para colocar próximo ao potenciômetro. Por conta disso, no circuito físico, nós colocamos 3 resistores de 1.2k em paralelo, os quais foram dispostos em série com um resistor de 3.3k. Dessa forma, conseguimos a resistência equivalente de 3.7k que precisávamos.
+
 
 ## Circuito PCB no Eagle
 ### Esquemático
-![](Imagens/Esquematico.png)
+![](Imagens/Esquematico.jpg)
 
 
 ### Board
-![](Imagens/Board.png)
+![](Imagens/Board.jpg)
 
 
 ## Cálculo dos Componentes
