@@ -36,13 +36,16 @@ O circuito será feito a partir de uma corrente alternada de 127V (pico de 180V)
 Valor Total: R$ 80,78
 
 
-## Circuito Físico
-![](Imagens/Fisico1.jpg)
-![](Imagens/Fisico2.jpg)
+## Funcionamento do Circuito Físico
+### Circuito Físico
+A foto será incluída aqui em instantes
 
+### Funcionamento
+https://youtube.com/shorts/FkHjcjOaQXg?feature=share
 
 ## Vídeo Explicando o Circuito 
-<video>
+https://youtu.be/_wUiElhzMUA
+
 
 ## Circuito no Falstad
 ![](Imagens/Falstad.svg)
@@ -94,7 +97,7 @@ $i_{LED} = \frac{25,44}{2700} \approx 9,4 mA$
 
 $i_{zener} = \frac{25,44 - 13}{1200} \approx 10,3 mA$
 
-$i_{potenciômetro} = \frac{25,44}{10,000 + 3,300 + 1,200} \approx 1,8 mA$
+$i_{potenciômetro} = \frac{25,44}{10,000 + 3,600 + 1,200} \approx 1,7 mA$
 
 
 ### Cálculo do Capacitância
