@@ -38,7 +38,7 @@ Valor Total: R$ 81,77
 
 ## Funcionamento do Circuito Físico
 ### Circuito Físico
-![](Fisico.jpg)
+![](Imagens/Fisico.jpg)
 
 
 ### Funcionamento
