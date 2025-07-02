@@ -48,8 +48,7 @@ https://youtu.be/_wUiElhzMUA
 
 
 ## Circuito no Falstad
-![](Imagens/Falstad.sv
-
+![](Imagens/Falstad.svg)
 
 Simulação do Circuito: https://tinyurl.com/2xu9qe8o
 
