@@ -52,6 +52,12 @@ https://youtu.be/_wUiElhzMUA
 
 Simulação do Circuito: https://tinyurl.com/2xu9qe8o
 
+Obs.: o planejamento atual do circuito envolvia 3.6k de resistência no resistor do potenciômetro, mas, como tínhamos apenas resistores de 3.3k e 1.2k, fizemos uma associação.
+
+Dessa forma, colocamos 3 resistores de 1.2k em paralelo com um resistor de 3.3k em séries. A resistência total nesse trecho foi, portanto, 3.7k ohms, diferindo em 100 ohms do circuito simulado.
+
+No fim, esse imprevisto acabou dando certo e mantivemos os 3.7k no circuito físico.
+
 
 ## Circuito PCB no Eagle
 ### Esquemático
