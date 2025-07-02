@@ -35,9 +35,6 @@ O circuito será feito a partir de uma corrente alternada de 127V (pico de 180V)
 
 Valor Total: R$ 80,78
 
-## Circuito no Tinkercad
-![](Imagens/Tinkercad.png)
-
 
 ## Circuito Físico
 ![](Imagens/Fisico1.jpg)
@@ -45,14 +42,13 @@ Valor Total: R$ 80,78
 
 
 ## Vídeo Explicando o Circuito 
-https://youtu.be/3E-sQuPggsA
-
+<video>
 
 ## Circuito no Falstad
 ![](Imagens/Falstad.svg)
 
 
-Simulação do Circuito: [https://tinyurl.com/2dg3ryvk](https://tinyurl.com/23kvpb9c)
+Simulação do Circuito: https://tinyurl.com/2xu9qe8o
 
 
 ## Circuito PCB no Eagle
