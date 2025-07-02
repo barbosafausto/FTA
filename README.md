@@ -26,7 +26,7 @@ O circuito será feito a partir de uma corrente alternada de 127V (pico de 180V)
 | 1 | Resistor | 2,7 kΩ, 1W | R$ 0,40 |
 | 1 | Resistor | 3,3 kΩ | R$ 0,07 |
 | 4 | Resistor | 1,2 kΩ | R$ 0,13 |
-| 1 | Resistor | 100 Ω | R$ 1,20 |
+| 1 | Resistor | 100 Ω, 2W | R$ 1,20 |
 | 1 | Resistor | 120 Ω | R$ 1,90 |
 | 4 | Diodo Retificador | 1N4007 | R$ 0,20 |
 | 1 | Diodo Zener | 13V, 1W | R$ 0,50 |
