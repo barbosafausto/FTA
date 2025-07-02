@@ -35,6 +35,9 @@ O circuito será feito a partir de uma corrente alternada de 127V (pico de 180V)
 
 Valor Total: R$ 81,77
 
+## Circuito no Tinkercad
+![](Imagens/Tinkercad.png)
+
 
 ## Funcionamento do Circuito Físico
 ### Circuito Físico
